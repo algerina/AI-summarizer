@@ -14,6 +14,11 @@ const Hero = () => {
           Github
         </button>
       </nav>
+
+      <h1 className="head_text">
+        Summarize Articles with <br />
+        <span className="orange_gradient">OpenAI GPT-4</span>
+      </h1>
     </header>
   );
 };
