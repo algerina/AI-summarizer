@@ -1,9 +1,76 @@
-# React + Vite
+![](https://img.shields.io/static/v1?label=BY&message=Algerina&color=red)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Logo](src/assets/logo.svg)
 
-Currently, two official plugins are available:
+# SUMMARIZE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# AI-summarizer
+<hr>
+
+## Description
+
+> An Article Summarizer Application using OpenAI's GPT model. .
+
+<hr>
+
+## Built With
+
+Front-end
+
+- [React](https://reactjs.org/)
+
+## Live demo
+
+[LiveDemo](https://summerizeai.netlify.app/)
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+```sh
+git clone https://github.com/algerina/AI-summarizer.git
+```
+
+Then
+
+```sh
+cd AI-summarizer
+```
+
+To install packages
+
+```sh
+npm install
+```
+
+To Run the app
+
+```sh
+npm start
+```
+
+## Author
+
+👤 **Amel Khiri**
+
+| Platform     | Badge                                                  |
+| ------------ | ------------------------------------------------------ |
+| **GitHub**   | [@Algerina](https://github.com/Algerina)               |
+| **LinkedIn** | [@Amel Khiri](https://www.linkedin.com/in/amel-khiri/) |
+
+<hr>
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+<hr>
+
+## Acknowledgments
+
+Inspired by a design of [@Adrian Hadjrin](https://github.com/adrianhajdin)
+
+<hr>
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
