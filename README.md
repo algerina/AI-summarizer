@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=BY&message=Algerina&color=pink)
 
-![Logo](assets/logo.svg)
+![Logo](src/assets/logo.svg)
 
 # SUMMARIZER
 
