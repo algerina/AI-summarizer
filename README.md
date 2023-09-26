@@ -1,4 +1,4 @@
-![](https://img.shields.io/static/v1?label=BY&message=Algerina&color=pink)
+![](https://img.shields.io/static/v1?label=BY&message=Algerina&color=red)
 
 ![Logo](src/assets/logo.svg)
 
