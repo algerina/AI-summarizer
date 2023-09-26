@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=BY&message=Algerina&color=pink)
 
-![](logo.svg)
+![Logo](assets/logo.svg)
 
 # SUMMARIZER
 
@@ -73,4 +73,4 @@ Inspired by a design of [@Adrian Hadjrin](https://github.com/adrianhajdin)
 
 ## 📝 License
 
-This project is [MIT](.LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
