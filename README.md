@@ -2,13 +2,13 @@
 
 ![Logo](src/assets/logo.svg)
 
-# SUMMARIZER
+# SUMMARIZE
 
 <hr>
 
 ## Description
 
-> Ann Article Summarizer Application using OpenAI's GPT model. .
+> An Article Summarizer Application using OpenAI's GPT model. .
 
 <hr>
 
